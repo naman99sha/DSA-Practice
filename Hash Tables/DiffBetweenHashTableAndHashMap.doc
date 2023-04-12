@@ -1,0 +1,8 @@
+Hash Table vs hashmap: Difference between Hash Table and Hashmap in Python
+    Hash Table	                                             Hashmap
+    Synchronized                                        Non-Synchronized
+    Fast                                                        Slow
+Allows one null key and more than one null values   Does not allows null keys or values
+
+
+// BOTH ARE SIMPLY EXECUTED USING A DICTIONARY IN Python
